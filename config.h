@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = {"IPAGothic:pixelsize=15:antialias=true:autohint=true"};
+static char *font = "monospace:pixelsize=13:antialias=true:autohint=true";
+static char *font2[] = {"IPAGothic:pixelsize=13:antialias=true:autohint=true"};
 /* Spare fonts */
 
 static int borderpx = 2;
